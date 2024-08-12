@@ -1,2 +1,2 @@
 # 24023086
-First repository for mechanical engeniring
+First repository for mechanical engineering
