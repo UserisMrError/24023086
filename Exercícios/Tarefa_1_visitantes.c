@@ -11,7 +11,7 @@ int main(){
     printf("Qual foi o número de visitantes de hoje? ");
     scanf("%d", &visitantes);
 
-    printf("%d visitantes registrados com sucesso \n");
+    printf("%d visitantes registrados com sucesso \n", visitantes);
     printf("\nO núemro de visitantes foi de %d", visitantes);
 
     return 0;//não esquecer de identar
